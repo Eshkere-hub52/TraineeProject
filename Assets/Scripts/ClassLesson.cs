@@ -9,7 +9,7 @@ public class ClassLesson : MonoBehaviour
     void Start()
     {
         myScript.Test();
-
+//  qefwre
     }
 
 }
